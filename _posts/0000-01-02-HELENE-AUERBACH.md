@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+J'écris ton nom : **LIBERTE**
+
 Use the left arrow to go back!
